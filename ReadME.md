@@ -1,7 +1,7 @@
 Sobre mim
 
 
-Sou Paulo, sou um mestre biotecnologista, buscando mudar de area, atualmente estudando backend, já tendo conhecimento sobre React JS, HTML 5 ,CSS 3, Javascript E6.
+Sou Paulo, sou um mestre biotecnologista, buscando mudar de area, atualmente estudando backend, conhecimentos obtidos React JS, HTML 5 ,CSS 3, Javascript E6.
 
 
 
